@@ -1,0 +1,21 @@
+[2019-08-12 10:41:40,042] {taskinstance.py:616} INFO - Dependencies all met for <TaskInstance: test_dag.multitask1 2019-08-12T14:31:07.939323+00:00 [queued]>
+[2019-08-12 10:41:40,050] {taskinstance.py:616} INFO - Dependencies all met for <TaskInstance: test_dag.multitask1 2019-08-12T14:31:07.939323+00:00 [queued]>
+[2019-08-12 10:41:40,050] {taskinstance.py:834} INFO - 
+--------------------------------------------------------------------------------
+[2019-08-12 10:41:40,050] {taskinstance.py:835} INFO - Starting attempt 1 of 3
+[2019-08-12 10:41:40,050] {taskinstance.py:836} INFO - 
+--------------------------------------------------------------------------------
+[2019-08-12 10:41:40,064] {taskinstance.py:855} INFO - Executing <Task(PythonOperator): multitask1> on 2019-08-12T14:31:07.939323+00:00
+[2019-08-12 10:41:40,065] {base_task_runner.py:133} INFO - Running: ['airflow', 'run', 'test_dag', 'multitask1', '2019-08-12T14:31:07.939323+00:00', '--job_id', '6', '--pool', 'default_pool', '--raw', '-sd', 'DAGS_FOLDER/first_dag.py', '--cfg_path', '/var/folders/zn/cxn62jnd6s3fh4gyxd2c0s094404j5/T/tmpzo_qrn5_']
+[2019-08-12 10:41:40,806] {base_task_runner.py:115} INFO - Job 6: Subtask multitask1 [2019-08-12 10:41:40,806] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=54626
+[2019-08-12 10:41:41,137] {base_task_runner.py:115} INFO - Job 6: Subtask multitask1 [2019-08-12 10:41:41,137] {__init__.py:51} INFO - Using executor CeleryExecutor
+[2019-08-12 10:41:41,652] {base_task_runner.py:115} INFO - Job 6: Subtask multitask1 [2019-08-12 10:41:41,652] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/first_dag.py
+[2019-08-12 10:41:41,676] {base_task_runner.py:115} INFO - Job 6: Subtask multitask1 [2019-08-12 10:41:41,676] {cli.py:516} INFO - Running <TaskInstance: test_dag.multitask1 2019-08-12T14:31:07.939323+00:00 [running]> on host MAC-VKARINGULA2.local
+[2019-08-12 10:41:41,688] {python_operator.py:105} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_ID=test_dag
+AIRFLOW_CTX_TASK_ID=multitask1
+AIRFLOW_CTX_EXECUTION_DATE=2019-08-12T14:31:07.939323+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2019-08-12T14:31:07.939323+00:00
+[2019-08-12 10:41:41,689] {logging_mixin.py:95} INFO - {'a': 1, 'b': 2}
+[2019-08-12 10:41:41,689] {python_operator.py:114} INFO - Done. Returned value was: None
+[2019-08-12 10:41:45,009] {logging_mixin.py:95} INFO - [[34m2019-08-12 10:41:45,008[0m] {[34mlocal_task_job.py:[0m105} INFO[0m - Task exited with return code 0[0m

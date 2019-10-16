@@ -1,0 +1,258 @@
+[2019-08-09 15:38:37,341] {logging_mixin.py:95} INFO - [2019-08-09 15:38:37,340] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=45462
+[2019-08-09 15:38:37,344] {scheduler_job.py:146} INFO - Started process (PID=45462) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:38:37,351] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:38:37,352] {logging_mixin.py:95} INFO - [2019-08-09 15:38:37,352] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:38:57,376] {logging_mixin.py:95} INFO - [2019-08-09 15:38:57,375] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=45571
+[2019-08-09 15:38:57,380] {scheduler_job.py:146} INFO - Started process (PID=45571) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:38:57,388] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:38:57,389] {logging_mixin.py:95} INFO - [2019-08-09 15:38:57,389] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:39:17,417] {logging_mixin.py:95} INFO - [2019-08-09 15:39:17,417] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=45693
+[2019-08-09 15:39:17,421] {scheduler_job.py:146} INFO - Started process (PID=45693) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:39:17,427] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:39:17,428] {logging_mixin.py:95} INFO - [2019-08-09 15:39:17,428] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:39:37,469] {logging_mixin.py:95} INFO - [2019-08-09 15:39:37,468] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=45800
+[2019-08-09 15:39:37,473] {scheduler_job.py:146} INFO - Started process (PID=45800) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:39:37,479] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:39:37,481] {logging_mixin.py:95} INFO - [2019-08-09 15:39:37,480] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:39:57,525] {logging_mixin.py:95} INFO - [2019-08-09 15:39:57,524] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=45909
+[2019-08-09 15:39:57,529] {scheduler_job.py:146} INFO - Started process (PID=45909) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:39:57,536] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:39:57,537] {logging_mixin.py:95} INFO - [2019-08-09 15:39:57,537] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:40:17,575] {logging_mixin.py:95} INFO - [2019-08-09 15:40:17,574] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=46033
+[2019-08-09 15:40:17,580] {scheduler_job.py:146} INFO - Started process (PID=46033) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:40:17,600] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:40:17,601] {logging_mixin.py:95} INFO - [2019-08-09 15:40:17,600] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:40:37,615] {logging_mixin.py:95} INFO - [2019-08-09 15:40:37,615] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=46138
+[2019-08-09 15:40:37,619] {scheduler_job.py:146} INFO - Started process (PID=46138) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:40:37,626] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:40:37,627] {logging_mixin.py:95} INFO - [2019-08-09 15:40:37,627] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:40:57,656] {logging_mixin.py:95} INFO - [2019-08-09 15:40:57,656] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=46250
+[2019-08-09 15:40:57,661] {scheduler_job.py:146} INFO - Started process (PID=46250) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:40:57,669] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:40:57,670] {logging_mixin.py:95} INFO - [2019-08-09 15:40:57,670] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:41:17,711] {logging_mixin.py:95} INFO - [2019-08-09 15:41:17,711] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=46373
+[2019-08-09 15:41:17,715] {scheduler_job.py:146} INFO - Started process (PID=46373) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:41:17,722] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:41:17,723] {logging_mixin.py:95} INFO - [2019-08-09 15:41:17,722] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:41:37,761] {logging_mixin.py:95} INFO - [2019-08-09 15:41:37,760] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=46478
+[2019-08-09 15:41:37,764] {scheduler_job.py:146} INFO - Started process (PID=46478) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:41:37,772] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:41:37,773] {logging_mixin.py:95} INFO - [2019-08-09 15:41:37,772] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:41:57,795] {logging_mixin.py:95} INFO - [2019-08-09 15:41:57,794] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=46591
+[2019-08-09 15:41:57,799] {scheduler_job.py:146} INFO - Started process (PID=46591) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:41:57,805] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:41:57,806] {logging_mixin.py:95} INFO - [2019-08-09 15:41:57,806] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:42:17,859] {logging_mixin.py:95} INFO - [2019-08-09 15:42:17,858] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=46697
+[2019-08-09 15:42:17,862] {scheduler_job.py:146} INFO - Started process (PID=46697) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:42:17,869] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:42:17,870] {logging_mixin.py:95} INFO - [2019-08-09 15:42:17,870] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:42:37,920] {logging_mixin.py:95} INFO - [2019-08-09 15:42:37,920] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=46806
+[2019-08-09 15:42:37,924] {scheduler_job.py:146} INFO - Started process (PID=46806) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:42:37,931] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:42:37,932] {logging_mixin.py:95} INFO - [2019-08-09 15:42:37,931] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:42:57,958] {logging_mixin.py:95} INFO - [2019-08-09 15:42:57,958] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=46919
+[2019-08-09 15:42:57,961] {scheduler_job.py:146} INFO - Started process (PID=46919) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:42:57,968] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:42:57,969] {logging_mixin.py:95} INFO - [2019-08-09 15:42:57,968] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:43:18,011] {logging_mixin.py:95} INFO - [2019-08-09 15:43:18,010] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=47032
+[2019-08-09 15:43:18,014] {scheduler_job.py:146} INFO - Started process (PID=47032) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:43:18,021] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:43:18,022] {logging_mixin.py:95} INFO - [2019-08-09 15:43:18,022] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:43:38,052] {logging_mixin.py:95} INFO - [2019-08-09 15:43:38,052] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=47148
+[2019-08-09 15:43:38,057] {scheduler_job.py:146} INFO - Started process (PID=47148) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:43:38,063] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:43:38,064] {logging_mixin.py:95} INFO - [2019-08-09 15:43:38,064] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:43:38,071] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:43:38,104] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.047 seconds
+[2019-08-09 15:43:58,102] {logging_mixin.py:95} INFO - [2019-08-09 15:43:58,101] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=47263
+[2019-08-09 15:43:58,105] {scheduler_job.py:146} INFO - Started process (PID=47263) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:43:58,112] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:43:58,113] {logging_mixin.py:95} INFO - [2019-08-09 15:43:58,113] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:43:58,120] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:43:58,148] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.043 seconds
+[2019-08-09 15:44:18,153] {logging_mixin.py:95} INFO - [2019-08-09 15:44:18,152] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=47371
+[2019-08-09 15:44:18,157] {scheduler_job.py:146} INFO - Started process (PID=47371) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:44:18,163] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:44:18,164] {logging_mixin.py:95} INFO - [2019-08-09 15:44:18,164] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:44:18,170] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:44:18,200] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.044 seconds
+[2019-08-09 15:44:38,189] {logging_mixin.py:95} INFO - [2019-08-09 15:44:38,188] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=47484
+[2019-08-09 15:44:38,193] {scheduler_job.py:146} INFO - Started process (PID=47484) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:44:38,200] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:44:38,201] {logging_mixin.py:95} INFO - [2019-08-09 15:44:38,200] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:44:38,208] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:44:38,241] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.047 seconds
+[2019-08-09 15:44:58,243] {logging_mixin.py:95} INFO - [2019-08-09 15:44:58,242] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=47588
+[2019-08-09 15:44:58,248] {scheduler_job.py:146} INFO - Started process (PID=47588) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:44:58,258] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:44:58,260] {logging_mixin.py:95} INFO - [2019-08-09 15:44:58,259] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:44:58,269] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:44:58,310] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.062 seconds
+[2019-08-09 15:45:18,291] {logging_mixin.py:95} INFO - [2019-08-09 15:45:18,290] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=47706
+[2019-08-09 15:45:18,295] {scheduler_job.py:146} INFO - Started process (PID=47706) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:45:18,301] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:45:18,302] {logging_mixin.py:95} INFO - [2019-08-09 15:45:18,302] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:45:18,308] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:45:18,340] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.046 seconds
+[2019-08-09 15:45:38,332] {logging_mixin.py:95} INFO - [2019-08-09 15:45:38,331] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=47819
+[2019-08-09 15:45:38,335] {scheduler_job.py:146} INFO - Started process (PID=47819) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:45:38,342] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:45:38,342] {logging_mixin.py:95} INFO - [2019-08-09 15:45:38,342] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:45:38,349] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:45:38,382] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.047 seconds
+[2019-08-09 15:45:58,375] {logging_mixin.py:95} INFO - [2019-08-09 15:45:58,375] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=47926
+[2019-08-09 15:45:58,379] {scheduler_job.py:146} INFO - Started process (PID=47926) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:45:58,385] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:45:58,386] {logging_mixin.py:95} INFO - [2019-08-09 15:45:58,386] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:45:58,393] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:45:58,421] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.042 seconds
+[2019-08-09 15:46:18,419] {logging_mixin.py:95} INFO - [2019-08-09 15:46:18,418] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=48038
+[2019-08-09 15:46:18,422] {scheduler_job.py:146} INFO - Started process (PID=48038) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:46:18,429] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:46:18,430] {logging_mixin.py:95} INFO - [2019-08-09 15:46:18,430] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:46:18,437] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:46:18,466] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.043 seconds
+[2019-08-09 15:46:38,445] {logging_mixin.py:95} INFO - [2019-08-09 15:46:38,445] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=48151
+[2019-08-09 15:46:38,449] {scheduler_job.py:146} INFO - Started process (PID=48151) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:46:38,457] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:46:38,458] {logging_mixin.py:95} INFO - [2019-08-09 15:46:38,457] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:46:38,464] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:46:38,492] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.043 seconds
+[2019-08-09 15:46:58,491] {logging_mixin.py:95} INFO - [2019-08-09 15:46:58,490] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=48258
+[2019-08-09 15:46:58,495] {scheduler_job.py:146} INFO - Started process (PID=48258) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:46:58,503] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:46:58,504] {logging_mixin.py:95} INFO - [2019-08-09 15:46:58,504] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:46:58,511] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:46:58,541] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.045 seconds
+[2019-08-09 15:47:18,538] {logging_mixin.py:95} INFO - [2019-08-09 15:47:18,538] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=48373
+[2019-08-09 15:47:18,542] {scheduler_job.py:146} INFO - Started process (PID=48373) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:47:18,549] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:47:18,550] {logging_mixin.py:95} INFO - [2019-08-09 15:47:18,550] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:47:18,557] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:47:18,586] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.044 seconds
+[2019-08-09 15:47:38,592] {logging_mixin.py:95} INFO - [2019-08-09 15:47:38,591] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=48481
+[2019-08-09 15:47:38,596] {scheduler_job.py:146} INFO - Started process (PID=48481) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:47:38,603] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:47:38,604] {logging_mixin.py:95} INFO - [2019-08-09 15:47:38,603] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:47:38,611] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:47:38,641] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.045 seconds
+[2019-08-09 15:47:58,651] {logging_mixin.py:95} INFO - [2019-08-09 15:47:58,650] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=48601
+[2019-08-09 15:47:58,656] {scheduler_job.py:146} INFO - Started process (PID=48601) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:47:58,663] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:47:58,665] {logging_mixin.py:95} INFO - [2019-08-09 15:47:58,664] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:47:58,666] {scheduler_job.py:1507} WARNING - No viable dags retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:47:58,667] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.011 seconds
+[2019-08-09 15:48:18,718] {logging_mixin.py:95} INFO - [2019-08-09 15:48:18,717] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=48716
+[2019-08-09 15:48:18,723] {scheduler_job.py:146} INFO - Started process (PID=48716) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:48:18,730] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:48:18,732] {logging_mixin.py:95} INFO - [2019-08-09 15:48:18,731] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:48:18,734] {scheduler_job.py:1507} WARNING - No viable dags retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:48:18,735] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.012 seconds
+[2019-08-09 15:53:39,531] {logging_mixin.py:95} INFO - [2019-08-09 15:53:39,530] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=50507
+[2019-08-09 15:53:39,535] {scheduler_job.py:146} INFO - Started process (PID=50507) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:53:39,542] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:53:39,543] {logging_mixin.py:95} INFO - [2019-08-09 15:53:39,543] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:53:39,552] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:53:39,581] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.046 seconds
+[2019-08-09 15:53:59,582] {logging_mixin.py:95} INFO - [2019-08-09 15:53:59,581] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=50615
+[2019-08-09 15:53:59,586] {scheduler_job.py:146} INFO - Started process (PID=50615) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:53:59,593] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:53:59,594] {logging_mixin.py:95} INFO - [2019-08-09 15:53:59,593] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:53:59,602] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:53:59,636] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.050 seconds
+[2019-08-09 15:54:19,626] {logging_mixin.py:95} INFO - [2019-08-09 15:54:19,625] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=50726
+[2019-08-09 15:54:19,630] {scheduler_job.py:146} INFO - Started process (PID=50726) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:54:19,637] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:54:19,638] {logging_mixin.py:95} INFO - [2019-08-09 15:54:19,638] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:54:19,646] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:54:19,677] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.047 seconds
+[2019-08-09 15:54:39,676] {logging_mixin.py:95} INFO - [2019-08-09 15:54:39,676] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=50834
+[2019-08-09 15:54:39,679] {scheduler_job.py:146} INFO - Started process (PID=50834) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:54:39,687] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:54:39,688] {logging_mixin.py:95} INFO - [2019-08-09 15:54:39,687] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:54:39,697] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:54:39,726] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.047 seconds
+[2019-08-09 15:54:59,727] {logging_mixin.py:95} INFO - [2019-08-09 15:54:59,727] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=50945
+[2019-08-09 15:54:59,731] {scheduler_job.py:146} INFO - Started process (PID=50945) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:54:59,738] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:54:59,739] {logging_mixin.py:95} INFO - [2019-08-09 15:54:59,739] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:54:59,747] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:54:59,783] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.052 seconds
+[2019-08-09 15:55:19,782] {logging_mixin.py:95} INFO - [2019-08-09 15:55:19,782] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=51066
+[2019-08-09 15:55:19,786] {scheduler_job.py:146} INFO - Started process (PID=51066) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:55:19,794] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:55:19,795] {logging_mixin.py:95} INFO - [2019-08-09 15:55:19,794] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:55:19,803] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:55:19,834] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.048 seconds
+[2019-08-09 15:55:39,848] {logging_mixin.py:95} INFO - [2019-08-09 15:55:39,848] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=51174
+[2019-08-09 15:55:39,852] {scheduler_job.py:146} INFO - Started process (PID=51174) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:55:39,858] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:55:39,859] {logging_mixin.py:95} INFO - [2019-08-09 15:55:39,859] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:55:39,867] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:55:39,902] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.050 seconds
+[2019-08-09 15:55:59,904] {logging_mixin.py:95} INFO - [2019-08-09 15:55:59,903] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=51388
+[2019-08-09 15:55:59,909] {scheduler_job.py:146} INFO - Started process (PID=51388) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:55:59,917] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:55:59,918] {logging_mixin.py:95} INFO - [2019-08-09 15:55:59,918] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:55:59,928] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:55:59,965] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.056 seconds
+[2019-08-09 15:56:19,958] {logging_mixin.py:95} INFO - [2019-08-09 15:56:19,958] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=51542
+[2019-08-09 15:56:19,963] {scheduler_job.py:146} INFO - Started process (PID=51542) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:56:19,970] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:56:19,971] {logging_mixin.py:95} INFO - [2019-08-09 15:56:19,971] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:56:19,979] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:56:20,007] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.044 seconds
+[2019-08-09 15:56:40,017] {logging_mixin.py:95} INFO - [2019-08-09 15:56:40,017] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=51650
+[2019-08-09 15:56:40,021] {scheduler_job.py:146} INFO - Started process (PID=51650) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:56:40,028] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:56:40,029] {logging_mixin.py:95} INFO - [2019-08-09 15:56:40,029] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:56:40,036] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:56:40,069] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.048 seconds
+[2019-08-09 15:57:00,064] {logging_mixin.py:95} INFO - [2019-08-09 15:57:00,063] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=51761
+[2019-08-09 15:57:00,069] {scheduler_job.py:146} INFO - Started process (PID=51761) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:57:00,077] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:57:00,078] {logging_mixin.py:95} INFO - [2019-08-09 15:57:00,078] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:57:00,088] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:57:00,121] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.053 seconds
+[2019-08-09 15:57:20,114] {logging_mixin.py:95} INFO - [2019-08-09 15:57:20,114] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=51876
+[2019-08-09 15:57:20,118] {scheduler_job.py:146} INFO - Started process (PID=51876) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:57:20,125] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:57:20,126] {logging_mixin.py:95} INFO - [2019-08-09 15:57:20,126] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:57:20,134] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:57:20,166] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.048 seconds
+[2019-08-09 15:57:40,142] {logging_mixin.py:95} INFO - [2019-08-09 15:57:40,141] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=51989
+[2019-08-09 15:57:40,145] {scheduler_job.py:146} INFO - Started process (PID=51989) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:57:40,152] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:57:40,153] {logging_mixin.py:95} INFO - [2019-08-09 15:57:40,153] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:57:40,161] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:57:40,196] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.050 seconds
+[2019-08-09 15:58:00,184] {logging_mixin.py:95} INFO - [2019-08-09 15:58:00,183] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=52099
+[2019-08-09 15:58:00,188] {scheduler_job.py:146} INFO - Started process (PID=52099) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:58:00,195] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:58:00,196] {logging_mixin.py:95} INFO - [2019-08-09 15:58:00,196] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:58:00,204] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:58:00,238] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.049 seconds
+[2019-08-09 15:58:20,223] {logging_mixin.py:95} INFO - [2019-08-09 15:58:20,223] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=52208
+[2019-08-09 15:58:20,226] {scheduler_job.py:146} INFO - Started process (PID=52208) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:58:20,233] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:58:20,234] {logging_mixin.py:95} INFO - [2019-08-09 15:58:20,234] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:58:20,242] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:58:20,271] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.045 seconds
+[2019-08-09 15:58:40,254] {logging_mixin.py:95} INFO - [2019-08-09 15:58:40,253] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=52319
+[2019-08-09 15:58:40,257] {scheduler_job.py:146} INFO - Started process (PID=52319) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:58:40,264] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:58:40,265] {logging_mixin.py:95} INFO - [2019-08-09 15:58:40,264] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:58:40,272] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:58:40,305] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.048 seconds
+[2019-08-09 15:59:00,294] {logging_mixin.py:95} INFO - [2019-08-09 15:59:00,293] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=52428
+[2019-08-09 15:59:00,299] {scheduler_job.py:146} INFO - Started process (PID=52428) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:59:00,306] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:59:00,307] {logging_mixin.py:95} INFO - [2019-08-09 15:59:00,307] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:59:00,316] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:59:00,349] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.050 seconds
+[2019-08-09 15:59:20,352] {logging_mixin.py:95} INFO - [2019-08-09 15:59:20,352] {settings.py:213} INFO - settings.configure_orm(): Using pool settings. pool_size=5, max_overflow=10, pool_recycle=1800, pid=52549
+[2019-08-09 15:59:20,356] {scheduler_job.py:146} INFO - Started process (PID=52549) to work on /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:59:20,363] {scheduler_job.py:1493} INFO - Processing file /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py for tasks to queue
+[2019-08-09 15:59:20,364] {logging_mixin.py:95} INFO - [2019-08-09 15:59:20,364] {dagbag.py:90} INFO - Filling up the DagBag from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:59:20,372] {scheduler_job.py:1505} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py
+[2019-08-09 15:59:20,405] {scheduler_job.py:152} INFO - Processing /Users/vijay.karingula/Desktop/Projects/Airflow-tuts/dags/tutorial.py took 0.049 seconds
