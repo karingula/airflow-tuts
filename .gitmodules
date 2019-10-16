@@ -1,0 +1,3 @@
+[submodule "lib/airflow-tutorial"]
+     path = lib/airflow-tutorial
+     url = git@github.com:tuanavu/airflow-tutorial.git
