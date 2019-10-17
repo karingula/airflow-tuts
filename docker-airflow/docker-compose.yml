@@ -1,7 +1,7 @@
 version: '3'
 services:
   webserver:
-    image: puckel/docker-airflow:1.10.5
+    image: puckel/docker-airflow
     build:
       context: .
       dockerfile: Dockerfile
