@@ -2,6 +2,7 @@
 Code that goes along with the Airflow located at:
 http://airflow.readthedocs.org/en/latest/tutorial.html
 """
+import airflow
 from airflow import DAG
 from airflow.operators.bash_operator import BashOperator
 from datetime import datetime, timedelta
@@ -10,7 +11,7 @@ from datetime import datetime, timedelta
 default_args = {
     "owner": "airflow",
     "depends_on_past": False,
-    "start_date": datetime(2015, 6, 1),
+    "start_date": airflow.utils.dates.days_ago(2),
     "email": ["airflow@airflow.com"],
     "email_on_failure": False,
     "email_on_retry": False,
@@ -26,7 +27,8 @@ dag = DAG(
     "tutorial",
     default_args=default_args,
     description="A simple tutorial DAG",
-    schedule_interval=timedelta(1))
+    schedule_interval=timedelta(1)
+)
 
 # t1, t2 and t3 are examples of tasks created by instantiating operators
 t1 = BashOperator(task_id="print_date", bash_command="date", dag=dag)
