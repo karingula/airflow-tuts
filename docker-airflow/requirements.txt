@@ -1,0 +1,3 @@
+# === AWS ===
+awscli==1.16.234 # https://pypi.org/project/awscli
+boto3==1.9.224 # https://pypi.org/project/boto3
