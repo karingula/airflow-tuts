@@ -74,7 +74,9 @@ RUN set -ex \
 COPY script/entrypoint.sh /entrypoint.sh
 COPY config/airflow.cfg ${AIRFLOW_USER_HOME}/airflow.cfg
 COPY ./dags ${AIRFLOW_USER_HOME}/dags
+COPY requirements.txt requirements.txt
 
+RUN pip install -r requirements.txt
 RUN chown -R airflow: ${AIRFLOW_USER_HOME}
 
 EXPOSE 8080 5555 8793
